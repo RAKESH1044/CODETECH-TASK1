@@ -17,16 +17,22 @@ Implementation  JavaScript Framework: Utilize a modern JavaScript framework f
 CSS: Use HTML5 and CSS3 for structuring and styling the user interface, ensuring compatibility with various web browsers. 
 Responsive Design: Implement responsive design principles to ensure optimal viewing experience across desktop and mobile
 devices.  User Interface Components: Utilize UI libraries for designing interactive and visually appealing components. 
+
 CODE EXPLAINATION HTML Structure: 
 
 : Acts as the main container for the to-do list application, wrapping everything in a visually appealing background. 
 : Encloses the to-do list’s title, input area, and list itself, providing a centered, stylized container for the app components. 
+
 To-Do List
+
 : The title for the application. Input Row (
 ): Contains the text input field and the Enter button. Users can type their task here and add it to the list. 
 : The unordered list where tasks will be displayed as list items (
 ). 
-CSS Styling: The CSS styles define the look and feel of the to-do list, applying a gradient background, styling the input fields,
+
+CSS Styling:
+
+The CSS styles define the look and feel of the to-do list, applying a gradient background, styling the input fields,
 buttons, and tasks. Key styling includes: • Global styles are applied to set margin, padding, and font settings. • The application is
 centered on the page with a maximum width and padding for aesthetics. • Input fields and buttons are styled for a seamless
 interface, with hover effects for interactivity. • The .listcontainer and .todo-app are styled to center the content and apply specific

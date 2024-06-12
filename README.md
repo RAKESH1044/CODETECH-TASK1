@@ -1,6 +1,7 @@
 # CODETECH-TASK1
 TITLE: CodTech IT Solutions Internship - Task Documentation: “To-DO LIST” Using CSS, HTML, JAVASCRIPT. 
 INTERN INFORMATION: Name: CHITTE RAKESH ID: CT08WD453 
+
 INTRODUCTION 
 In the realm of personal productivity and organizational tools, the to-do list occupies a central role, universally recognized for its
 simplicity and effectiveness in managing tasks and priorities. The evolution from paper-based lists to digital platforms has

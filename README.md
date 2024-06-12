@@ -1,6 +1,8 @@
 # CODETECH-TASK1
 TITLE: CodTech IT Solutions Internship - Task Documentation: “To-DO LIST” Using CSS, HTML, JAVASCRIPT. 
+
 DOMAIN:web development
+
 INTERN INFORMATION: Name: CHITTE RAKESH ID: CT08WD453 
 
 INTRODUCTION 

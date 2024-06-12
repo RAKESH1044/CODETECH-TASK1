@@ -3,6 +3,7 @@ TITLE: CodTech IT Solutions Internship - Task Documentation: “To-DO LIST” Us
 INTERN INFORMATION: Name: CHITTE RAKESH ID: CT08WD453 
 
 INTRODUCTION 
+
 In the realm of personal productivity and organizational tools, the to-do list occupies a central role, universally recognized for its
 simplicity and effectiveness in managing tasks and priorities. The evolution from paper-based lists to digital platforms has
 significantly expanded the functionality and accessibility of to-do lists, making them an indispensable tool for individuals looking to
@@ -17,6 +18,7 @@ CSS: Use HTML5 and CSS3 for structuring and styling the user interface, ensuring
 Responsive Design: Implement responsive design principles to ensure optimal viewing experience across desktop and mobile
 devices.  User Interface Components: Utilize UI libraries for designing interactive and visually appealing components. 
 CODE EXPLAINATION HTML Structure: 
+
 : Acts as the main container for the to-do list application, wrapping everything in a visually appealing background. 
 : Encloses the to-do list’s title, input area, and list itself, providing a centered, stylized container for the app components. 
 To-Do List
